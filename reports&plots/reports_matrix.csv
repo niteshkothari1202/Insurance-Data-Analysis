@@ -1,0 +1,6 @@
+"","precision","recall","f1score"
+"",100,100,100
+"Cancelled",NA,0,NA
+"Lapsed",100,100,100
+"Live",96.8058786603153,100,98.3770193444284
+"Unknown",NA,0,NA
